@@ -60,3 +60,17 @@ This project is a personal journey through many libraries that Python has to off
 [] TextBlob
 
 [] Mahotas
+
+[] Flask
+
+[] PyTest
+
+[] unittest
+
+[] Django
+
+[] Pyglet
+
+[] Arcade
+
+[] PyMunk
