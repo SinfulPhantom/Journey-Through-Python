@@ -74,3 +74,5 @@ This project is a personal journey through many libraries that Python has to off
 [] Arcade
 
 [] PyMunk
+
+[] Discord.py
