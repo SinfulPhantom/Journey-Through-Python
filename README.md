@@ -3,7 +3,7 @@ This project is a personal journey through many libraries that Python has to off
 
 
 ## Completion List
-[] Requests
+[x] Requests - https://github.com/SinfulPhantom/World-Foods/blob/890de9786e7d6364fd0db41ae6e32f20231c65dd/world_foods/routes.py#L15
 
 [] Pillow
 
@@ -61,7 +61,7 @@ This project is a personal journey through many libraries that Python has to off
 
 [] Mahotas
 
-[] Flask
+[x] Flask - https://github.com/SinfulPhantom/World-Foods
 
 [] PyTest
 
